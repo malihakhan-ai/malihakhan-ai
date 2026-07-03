@@ -1,6 +1,6 @@
 # Hi, I'm Maliha Hassan 👋
 
-### Mathematics Teacher | Aspiring AI & Data Science Engineer | MS Applicant
+### Mathematics Teacher | AI & Data Science Learner | MS in AI/Data Science Aspirant
 
 Welcome to my GitHub profile!
 
