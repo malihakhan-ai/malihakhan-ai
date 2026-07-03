@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Maliha Hassan 👋
 
-<!--
-**malihakhan-ai/malihakhan-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mathematics Teacher | Aspiring AI & Data Science Engineer | MS Applicant
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about Artificial Intelligence, Machine Learning, and Data Science. I am currently building a strong foundation in Python, mathematics, and AI while preparing for an MS in AI/Data Science.
+
+## 🎯 Current Goals
+
+- Learn Python for AI
+- Build Machine Learning projects
+- Master Data Science fundamentals
+- Contribute to open-source projects
+- Pursue an MS in AI/Data Science with scholarship opportunities
+
+## 📚 Currently Learning
+
+- Python
+- Git & GitHub
+- Data Structures
+- NumPy
+- Pandas
+- Machine Learning Fundamentals
+
+## 🛠️ Tools & Technologies
+
+- Python
+- Git
+- GitHub
+- VS Code
+
+## 📫 Connect with Me
+
+- Email: **malihak278@gmail.com**
+- Location: Lahore, Pakistan
+
+---
+
+⭐ Thank you for visiting my profile. More AI and Data Science projects are coming soon!
